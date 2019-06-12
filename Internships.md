@@ -6,4 +6,4 @@
 
 # All the best!
 
-Want any kind of help regarding Internships, feel free to connect with me [here](kumarhitesh652@gmail.com).
+Want any kind of help regarding Internships, feel free to connect with me [here](https://web.telegram.org/#/im?p=s1320409765_15118743446767058467) or mail me at kumarhitesh652@gmail.com
