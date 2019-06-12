@@ -6,4 +6,4 @@
 
 # All the best!
 
-Want any kind of help regarding Internships, feel free to connect with me [here](https://ayonroy.ml/contact).
+Want any kind of help regarding Internships, feel free to connect with me [here](kumarhitesh652@gmail.com).
