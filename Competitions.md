@@ -1,6 +1,6 @@
 # Competitions Opportunities
 
-## For latest opportunities , scroll/swipe down towards the end of list as new opportunities are being updated by me at the bottom . Some of the opportunities may be closed now as the requirements may have been met , so do try to check the opportunities situated near the bottom .
+## For latest opportunities , scroll/swipe down towards the end of list as new opportunities are being updated at the bottom . Some of the opportunities may be closed now as the requirements may have been met, so do try to check the opportunities situated near the bottom .
 
 - Computer Vision for Global Challenges. Visit https://research.fb.com/programs/research-awards/proposals/computer-vision-for-global-challenges-request-for-proposals/#About
 
