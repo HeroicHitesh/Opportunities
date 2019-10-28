@@ -8,4 +8,4 @@
 
 # All the best!
 
-Want any kind of help regarding Competitions, feel free to connect with me [here]() or mail me at kumarhitesh652@gmail.com
+Want any kind of help regarding Competitions, feel free to connect with me [here](https://www.linkedin.com/in/hitesh-kumar-a03a2b16b/) or mail me at kumarhitesh652@gmail.com
