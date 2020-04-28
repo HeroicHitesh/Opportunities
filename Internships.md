@@ -1,41 +1,42 @@
 # Internship Opportunities
 
-## For latest opportunities, scroll/swipe down towards the end of list as new opportunities are being updated at the bottom. Some of the opportunities may be closed now as the requirements may have been met, so do try to check the opportunities situated near the bottom.
+## For latest opportunities, check this page regularly.
 
 - **Government Ministries**
-  |Organization   |Qualifications   |Registration Starts on   |Registration Ends on   |Link   |
-  |---|---|---|---|---|
-  |Ministry of External Affairs (MEA)   |   |   |   |[Apply Now](https://www.mea.gov.in/internship-in-mea.htm)   |
-  |National Human Rights Commission (NHRC)   |   |   |   |[Apply Now](http://nhrc.nic.in/training-&-research/training-programmes/summer-intership-programmes)   |
-  |National Human Rights Commission (NHRC) *for short term Internship Programm*   |   |   |   |[Apply Now](http://nhrc.nic.in/training-programmes/short-term-internship-programme)   |
-  |PRS Legislative   |   |   |   |[Apply Now](https://www.prsindia.org/aboutus/internships-at-prs)   |
-  |WWF India   |   |   |   |[Apply Now](https://www.wwfindia.org/who_we_are/internship_at_wwf_india/)   |  
+  |Organization   |Details   |Last Date   |
+  |---|---|---|
+  |Ministry of External Affairs (MEA)   |[Click Here](https://www.mea.gov.in/internship-in-mea.htm)   |   |
+  |National Human Rights Commission (NHRC) *for short term Internship Programm*   |[Click Here](http://nhrc.nic.in/training-programmes/short-term-internship-programme)   |   |
+  |National Human Rights Commission (NHRC)   |[Click Here](http://nhrc.nic.in/training-&-research/training-programmes/summer-intership-programmes)   |   |
+  |PRS Legislative   |[Click Here](https://www.prsindia.org/aboutus/internships-at-prs)   |Jun 2020   |
+  |WWF India   |[Click Here](https://www.wwfindia.org/who_we_are/internship_at_wwf_india/)   |Feb & Oct 2020   |
+  
 - **IITs, IIITs, IISERs and other institutes**
   - Research Intern
-    |Organization   |Qualifications   |Registration Starts on   |Registration Ends on   |Link   |
-    |---|---|---|---|---|
-    |IIT Kanpur   |   |   |   |[Apply Now](https://www.teqipiitk.in/workshop/2019/wi19/)   |
-    |IIT Bhubaneswar   |   |   |   |[Apply Now](http://webapps.iitbbs.ac.in/internship-application/index.php)   |
-    |IIT Roorkee   |   |   |   |[Apply Now](https://www.iitr.ac.in/dic/internship.html)   |
-    |IISER Bhopal   |   |   |   |[Apply Now](https://www.iiserb.ac.in/doaa/internship)   |
+    |Organization   |Details   |Last Date   |
+    |---|---|---|
+    |IISER Bhopal(Summer)   |[Click Here](https://www.iiserb.ac.in/doaa/internship)   |Mar 31, 2020   |
+    |IISER Bhopal(Winter)   |[Click Here](https://www.iiserb.ac.in/doaa/internship)   |Nov 22, 2019   |
+    |IIT Bhubaneswar   |[Click Here](http://webapps.iitbbs.ac.in/internship-application/index.php)   |Nov 07, 2019   |
+    |IIT Kanpur   |[Click Here](https://www.teqipiitk.in/workshop/2019/wi19/)   |Nov 15, 2019   |
+    |IIT Roorkee   |[Click Here](https://www.iitr.ac.in/dic/internship.html)   |   |
+    
 - **Companies**
   - Software Development Engineer(SDE) Intern
-    |Organization   |Qualifications   |Registration Starts on   |Registration Ends on   |Link   |
-    |---|---|---|---|---|
-    |Amazon   |Graduating in  2021   |20 April 2020   |05 May 2020   |[Apply Now](https://www.amazewit.in/amazewow)   |
-  - Engineering Intern
-    |Organization   |Qualifications   |Registration Starts on   |Registration Ends on   |Link   |
-    |---|---|---|---|---|
-    |Qubole   |   |   |   |[Apply Now](https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c)   |
+    |Organization   |Details   |Last Date   |
+    |---|---|---|
+    |Amazon   |[Click Here](https://www.amazewit.in/amazewow)   |May 05, 2020   |
 
 ***You have to pay for the following internships.***
 
 - **IITs, IIITs, IISERs and other institutes**
   - Research Intern
-    |Organization   |Qualifications   |Registration Starts on   |Registration Ends on   |Link   |
-    |---|---|---|---|---|
-    |IIT Indore   |   |   |   |[Apply Now](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions)   |
-    |IIIT Allahabad   |   |   |   |[Apply Now](https://as.iiita.ac.in/index.php/2019/03/17/internship/)   |
+    |Organization   |Details   |Last Date   |
+    |---|---|---|
+    |IIIT Allahabad(Summer)   |[Click Here](https://as.iiita.ac.in/index.php/2019/03/17/internship/)   |Apr 20, 2019   |
+    |IIIT Allahabad(Winter)   |[Click Here](https://as.iiita.ac.in/index.php/2019/03/17/internship/)   |Nov 15, 2019   |
+    |IIIT Allahabad(Dissertation)   |[Click Here](https://as.iiita.ac.in/index.php/2019/03/17/internship/)   |Nov 15, 2019   |
+    |IIT Indore   |[Click Here](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions)   |   |
     
 # All the best!
 
