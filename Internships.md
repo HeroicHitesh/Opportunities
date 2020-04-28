@@ -45,6 +45,7 @@
     |Organization   |Details   |Last Date   |
     |---|---|---|
     |Amazon   |[Click Here](https://www.amazewit.in/amazewow)   |May 05, 2020   |
+    |Google   |[Click Here](https://buildyourfuture.withgoogle.com/internships/)   |   |
     
 # All the best!
 
