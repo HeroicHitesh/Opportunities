@@ -11,6 +11,7 @@
 - Intern with National Human Rights Commission (NHRC). Visit http://nhrc.nic.in/training-&-research/training-programmes/summer-intership-programmes or for short term Internship Programm visit http://nhrc.nic.in/training-programmes/short-term-internship-programme
 - WWF India	Intern. Visit https://www.wwfindia.org/who_we_are/internship_at_wwf_india/
 - PRS Legislative Research Intern. Visit https://www.prsindia.org/aboutus/internships-at-prs
+- Software Development Engineer Intern. Visit https://www.amazewit.in/amazewow
 
 ***You have to pay for following internships.***
 
