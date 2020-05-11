@@ -47,6 +47,21 @@
     |Amazon   |[Click Here](https://www.amazewit.in/amazewow)   |May 05, 2020   |
     |Google   |[Click Here](https://buildyourfuture.withgoogle.com/internships/)   |   |
     
+  - Marketing Intern
+    |Organization   |Details   |Last Date   |
+    |---|---|---|
+    |Coursera   |[Click Here](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a/apply?lever-source=glassdoor)   |   |
+    
+  - Problem Setter Intern
+    |Organization   |Details   |Last Date   |
+    |---|---|---|
+    |HackerEarth   |[Click Here](https://www.linkedin.com/jobs/view/1841861546/)   |   |
+    
+  - *Multiple Roles Available*
+    |Organization   |Details   |Last Date   |
+    |---|---|---|
+    |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |   |
+    
 # All the best!
 
 Want any kind of help regarding Internships, feel free to connect with me [here](https://www.linkedin.com/in/hitesh-kumar-a03a2b16b/) or mail me at kumarhitesh652@gmail.com
