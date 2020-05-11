@@ -2,7 +2,20 @@
 
 ## For latest opportunities, scroll/swipe down towards the end of list as new opportunities are being updated at the bottom. Some of the opportunities may be closed now as the requirements may have been met, so do try to check the opportunities situated near the bottom.
 
-- UI & UX Designer at GeekyAnts. Visit https://geekyants.com/current-openings
+- **UI & UX Designer**
+  |Organization   |Details   |Last Date   |
+  |---|---|---|
+  |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |   |
+
+- ***Covid Special List(Includes Jobs+Internships)***
+  |Organization   |Details   |Last Date   |
+  |---|---|---|
+  |Career vs Covid19   |[Click Here](https://www.careervscovid19.com/)   |NA   |
+  |Covintern   |[Click Here](https://covintern.com/jobs/)   |NA   |
+  |Indeed   |[Click Here](https://www.indeed.com/career-advice/finding-a-job/companies-hiring-now)   |NA   |
+  |Unknown Source   |[Click Here](https://docs.google.com/spreadsheets/u/1/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview)   |Feb list   |
+  |Unknown Source   |[Click Here](https://docs.google.com/spreadsheets/d/1R9IR8Z3-gU8uf76HOvVvh44R-UeQAxzmDe03E_vwRfs/edit#gid=388136490)   |Mar list   |
+  |Unknown Source   |[Click Here](https://docs.google.com/spreadsheets/d/1xwjaQ-Bjf9G6FZlfmiNTf4S1FjI0wu85HWmjKPwlLME/edit#gid=564244326)   |Apr-May list   |
 
 # All the best!
 
