@@ -50,7 +50,7 @@
   - *Fellowship*
     |Organization   |Details   |Last Date   |
     |---|---|---|
-    |MLH+GitHub   |[Click Here](https://fellowship.mlh.io)   |   |
+    |MLH+GitHub   |[Click Here](https://fellowship.mlh.io)   |Rolling Basis   |
     
   - Problem Setter Intern
     |Organization   |Details   |Last Date   |
