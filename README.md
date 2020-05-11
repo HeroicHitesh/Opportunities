@@ -2,6 +2,12 @@
 
 This repository is made with the **aim** :dart: of storing a list of all opportunities(competitions, internships, others) that I come across. Hope you'll find it useful.:smile:
 
+[Competitions](https://github.com/HeroicHitesh/Opportunities/blob/master/Competitions.md)
+[Events](https://github.com/HeroicHitesh/Opportunities/blob/master/Events.md)
+[Internships](https://github.com/HeroicHitesh/Opportunities/blob/master/Internships.md)
+[Jobs](https://github.com/HeroicHitesh/Opportunities/blob/master/Jobs.md)
+[Winter School](https://github.com/HeroicHitesh/Opportunities/blob/master/Winter%20School.md)
+
 ## Wanna CONTRIBUTE 
 
 If you want to add :heavy_plus_sign: any opportunity create an issue with following details :heavy_check_mark::
