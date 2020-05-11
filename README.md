@@ -2,11 +2,11 @@
 
 This repository is made with the **aim** :dart: of storing a list of all opportunities(competitions, internships, others) that I come across. Hope you'll find it useful.:smile:
 
-[Competitions](https://github.com/HeroicHitesh/Opportunities/blob/master/Competitions.md)
-[Events](https://github.com/HeroicHitesh/Opportunities/blob/master/Events.md)
-[Internships](https://github.com/HeroicHitesh/Opportunities/blob/master/Internships.md)
-[Jobs](https://github.com/HeroicHitesh/Opportunities/blob/master/Jobs.md)
-[Winter School](https://github.com/HeroicHitesh/Opportunities/blob/master/Winter%20School.md)
+[Competitions](https://github.com/HeroicHitesh/Opportunities/blob/master/Competitions.md)<br />
+[Events](https://github.com/HeroicHitesh/Opportunities/blob/master/Events.md)<br />
+[Internships](https://github.com/HeroicHitesh/Opportunities/blob/master/Internships.md)<br />
+[Jobs](https://github.com/HeroicHitesh/Opportunities/blob/master/Jobs.md)<br />
+[Winter School](https://github.com/HeroicHitesh/Opportunities/blob/master/Winter%20School.md)<br />
 
 ## Wanna CONTRIBUTE 
 
