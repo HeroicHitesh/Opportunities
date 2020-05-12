@@ -38,7 +38,12 @@
     |IIT Roorkee   |[Click Here](https://www.iitr.ac.in/dic/internship.html) or [Click Here](http://spark.iitr.ac.in)   |   |
     |NIT Durgapur   |[Click Here](https://admin.nitdgp.ac.in/files/newsfeed/2020/01/15/Summer_Internship.pdf)   |Feb 28, 2020   |
     |NIT Rourkela   |[Click Here](https://eapplication.nitrkl.ac.in/internship/)   |   |
-    |NIT Tiruchirappalli   |[Click Here](https://www.nitt.edu/home/rc/Summer-Internship-2020.pdf)   |Mar 30, 2020   |    
+    |NIT Tiruchirappalli   |[Click Here](https://www.nitt.edu/home/rc/Summer-Internship-2020.pdf)   |Mar 30, 2020   |
+    
+  - Undergraduate Summer Internship Program
+    |Organization   |Details   |Last Date   |
+    |---|---|---|
+    |LNM Institute of Information Technology   |[Click Here](https://lusip.lnmiit.ac.in)   |May 15, 2020   |   
     
 - **Companies**
   - Software Development Engineer(SDE) Intern
