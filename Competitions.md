@@ -14,12 +14,20 @@
   |---|---|---|
   |Google Summer of Code(GSoC)   |[Click Here](https://summerofcode.withgoogle.com)   |Mar 31, 2020   |
   |GirlScript Summer of Code(GSSoC)   |[Click Here](https://www.gssoc.tech/index.html)   |Feb 14, 2020   |
-  |Rails Girls Summer of Code(GSoC)   |[Click Here](https://railsgirlssummerofcode.org)   |Mar 30, 2020   |
+  |Rails Girls Summer of Code(RGSoC)   |[Click Here](https://railsgirlssummerofcode.org)   |Mar 30, 2020   |
+  |Summer of Code In Space(SOCIS)   |[Click Here](https://socis.esa.int/)   |Cancelled for 2020   |
   
 - **Winter Programs**
   |Program   |Details   |Last Date   |
   |---|---|---|
-  |Kharagpur Winter of Code(KWoC)   |[Click Here](https://summerofcode.withgoogle.com)   |Dec 08, 2019   |
+  |Kharagpur Winter of Code(KWoC)   |[Click Here](https://kwoc.kossiitkgp.org/)   |Dec 08, 2019   |
+  |Njack Winter of Code(NWoC)   |[Click Here](https://njackwinterofcode.github.io/)   |Dec 01, 2019   |
+  |JGEC Winter of Code(JWoC)   |[Click Here](https://jwoc.tech/)*suspended*   |Dec 01, 2019   |
+  
+- **Winter Programs**(for pre-university students *only*)
+  |Program   |Details   |Last Date   |
+  |---|---|---|
+  |Google Code-in   |[Click Here](https://codein.withgoogle.com/)   |Dec 02, 2019   |
 
 # All the best!
 
