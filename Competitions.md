@@ -16,6 +16,7 @@
   |GirlScript Summer of Code(GSSoC)   |[Click Here](https://www.gssoc.tech/index.html)   |Feb 14, 2020   |
   |Rails Girls Summer of Code(RGSoC)   |[Click Here](https://railsgirlssummerofcode.org)   |Mar 30, 2020   |
   |Summer of Code In Space(SOCIS)   |[Click Here](https://socis.esa.int/)   |Cancelled for 2020   |
+  |PClub Summer of Code   |[Click Here](https://www.pclubsummerofcode.in)   |Jun 20, 2020   |
   
 - **Winter Programs**
   |Program   |Details   |Last Date   |
