@@ -1,6 +1,6 @@
 # Events
 
-## For latest opportunities, check this page regularly.
+## For latest events, check this page regularly.
 
 |Organization   |Details   |Event Dates   |Status   |
 |---|---|---|---|
