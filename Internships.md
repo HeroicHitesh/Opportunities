@@ -10,6 +10,7 @@
   |National Human Rights Commission (NHRC)   |[Click Here](http://nhrc.nic.in/training-&-research/training-programmes/summer-intership-programmes)   |   |
   |PRS Legislative   |[Click Here](https://www.prsindia.org/aboutus/internships-at-prs)   |Jun 2020   |
   |WWF India   |[Click Here](https://www.wwfindia.org/who_we_are/internship_at_wwf_india/)   |Feb & Oct 2020   |
+  |AICTE   |[Click Here](https://www.aicte-india.org/sites/default/files/AICTE%20Advertisement%20for%20intern.pdf#overlay-context=)   |Jul 04, 2020   |
   
 - **IITs, IIITs, IISERs, NITs and other institutes**
   - Research Intern
@@ -51,6 +52,7 @@
     |---|---|---|
     |Amazon   |[Click Here](https://www.amazewit.in/amazewow)   |May 05, 2020   |
     |Google   |[Click Here](https://buildyourfuture.withgoogle.com/internships/)   |   |
+    |Amazon   |[Click Here](https://www.amazon.jobs/en/jobs/1178976/sde-intern)   |   |    
     
   - *Fellowship*
     |Organization   |Details   |Last Date   |
