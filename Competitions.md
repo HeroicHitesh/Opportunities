@@ -29,7 +29,13 @@
   |Program   |Details   |Last Date   |
   |---|---|---|
   |Google Code-in   |[Click Here](https://codein.withgoogle.com/)   |Dec 02, 2019   |
-
+  
+- **Bug Bounty Programs**
+  |Program   |Details   |Last Date   |
+  |---|---|---|
+  |XBOX Bounty Program   |[Click Here](https://www.microsoft.com/en-us/msrc/bounty-xbox)   |NA   |
+  |PlayStation's Bug Bounty Program   |[Click Here](https://hackerone.com/playstation)   |NA   |
+  
 # All the best!
 
 Want any kind of help regarding Competitions, feel free to connect with me [here](https://www.linkedin.com/in/hitesh-kumar-a03a2b16b/) or mail me at kumarhitesh652@gmail.com
