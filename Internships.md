@@ -73,6 +73,7 @@
     |Organization   |Details   |Last Date   |
     |---|---|---|
     |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |   |
+    |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |   |
     
   - ***Covid Special List(Includes Jobs+Internships)***
     |Organization   |Details   |Last Date   |
@@ -86,4 +87,4 @@
     
 # All the best!
 
-Want any kind of help regarding Internships, feel free to connect with me [here](https://www.linkedin.com/in/hitesh-kumar-a03a2b16b/) or mail me at kumarhitesh652@gmail.com
+Want any kind of help regarding Internships, feel free to connect with me [here](https://www.linkedin.com/in/heroichitesh/) or mail me at kumarhitesh652@gmail.com
