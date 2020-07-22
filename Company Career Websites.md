@@ -5,17 +5,21 @@
 - **Internships**
   |Organization   |Details   |
   |---|---|
-  |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow) [University Programs](https://www.amazonuniversity.jobs/) [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs) [Internship](https://amazon.jobs/en/teams/internships-for-students)   |
-  |Google   |[Students](https://careers.google.com/students/) [Internships+](https://buildyourfuture.withgoogle.com/internships/) [Education](https://edu.google.com/students/index.html)   |
-  |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
+  |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow), [University Programs](https://www.amazonuniversity.jobs/), [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs), [Internship](https://amazon.jobs/en/teams/internships-for-students)   |
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |
+  |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
+  |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
+  |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
+  |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   
 - **Jobs**
   |Organization   |Details   |
   |---|---|
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
+  |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
+  |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
-
+  
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
   |---|---|---|
