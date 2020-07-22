@@ -45,6 +45,7 @@
   |Program   |Details   |Last Date   |
   |---|---|---|
   |PyTorch Summer Hackathon   |[Click Here](https://pytorch2020.devpost.com)   |Aug 25, 2020   |
+  |Alan Hackathon   |[Click Here](https://hackathon.alan.app)   |Jul 15, 2020   |
 
 # All the best!
 
