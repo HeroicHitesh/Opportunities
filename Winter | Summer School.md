@@ -1,10 +1,18 @@
 # Winter | Summer School
 
-## For latest events, check this page regularly.
+## For latest opportunities, check this page regularly.
 
-|Organization   |Details   |Event Dates   |
-|---|---|---|---|
-|Lviv Data Science Summer School Online   |[Click Here](https://apps.ucu.edu.ua/en/summerschool-ds/)   |July 18, 2020   |
+- **Summer School**
+  |Organization   |Details   |Last Date   |
+  |---|---|---|
+  |Lviv Data Science   |[Click Here](https://apps.ucu.edu.ua/en/summerschool-ds/)   |July 18, 2020   |
+  |Association for Computing Machinery (ACM) India   |[Click Here](https://india.acm.org/education/acm-india-summer-schools-2020)   |Cancelled   |
+  
+- **Winter School**
+  |Organization   |Details   |Last Date   |
+  |---|---|---|
+  |Association for Computing Machinery (ACM) India   |[Click Here](hhttps://india.acm.org/education/acm-india-winter-schools)   |Closed   |
+  
 
 # All the best!
 
