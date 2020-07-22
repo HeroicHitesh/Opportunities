@@ -7,6 +7,7 @@
   |---|---|---|
   |Alexa Live   |[Click Here](https://developer.amazon.com/en-US/alexa/alexa-live)   |Jul 22   |
   |Breakpoint   |[Click Here](https://www.browserstack.com/events/breakpoint)   |Jul 20   |
+  |IBM Cloud Forum   |[Click Here](https://www.ibm.com/events/in-en/cloud-forum/)   |Jul 16   |
   |FlaskCon   |[Click Here](https://flaskcon.com)   |Jul 4   |
   |Firebase Live   |[Click Here](https://firebaseonair.withgoogle.com/events/firebase-live20)   |Jun 23   |
 
