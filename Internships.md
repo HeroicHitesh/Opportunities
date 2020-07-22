@@ -47,13 +47,6 @@
     |LNM Institute of Information Technology   |[Click Here](https://lusip.lnmiit.ac.in)   |May 15, 2020   |   
     
 - **Companies**
-  - Software Development Engineer(SDE) Intern
-    |Organization   |Details   |Last Date   |
-    |---|---|---|
-    |Amazon   |[Click Here](https://www.amazewit.in/amazewow)   |May 05, 2020   |
-    |Google   |[Click Here](https://buildyourfuture.withgoogle.com/internships/)   |   |
-    |Amazon   |[Click Here](https://www.amazon.jobs/en/jobs/1178976/sde-intern)   |   |    
-    
   - *Fellowship*
     |Organization   |Details   |Last Date   |
     |---|---|---|
@@ -68,22 +61,6 @@
     |Organization   |Details   |Last Date   |
     |---|---|---|
     |Coursera   |[Click Here](https://jobs.lever.co/coursera/e903a438-b6e8-42ee-a3fa-f4c71a8c773a/apply?lever-source=glassdoor)   |   |
-    
-  - *Multiple Roles Available*
-    |Organization   |Details   |Last Date   |
-    |---|---|---|
-    |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |   |
-    |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |   |
-    
-  - ***Covid Special List(Includes Jobs+Internships)***
-    |Organization   |Details   |Last Date   |
-    |---|---|---|
-    |Career vs Covid19   |[Click Here](https://www.careervscovid19.com/)   |NA   |
-    |Covintern   |[Click Here](https://covintern.com/jobs/)   |NA   |
-    |Indeed   |[Click Here](https://www.indeed.com/career-advice/finding-a-job/companies-hiring-now)   |NA   |
-    |Unknown Source   |[Click Here](https://docs.google.com/spreadsheets/u/1/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview)   |Feb list   |
-    |Unknown Source   |[Click Here](https://docs.google.com/spreadsheets/d/1R9IR8Z3-gU8uf76HOvVvh44R-UeQAxzmDe03E_vwRfs/edit#gid=388136490)   |Mar list   |
-    |Unknown Source   |[Click Here](https://docs.google.com/spreadsheets/d/1xwjaQ-Bjf9G6FZlfmiNTf4S1FjI0wu85HWmjKPwlLME/edit#gid=564244326)   |Apr-May list   |
     
 # All the best!
 
