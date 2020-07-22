@@ -46,7 +46,8 @@
   |---|---|---|
   |PyTorch Summer Hackathon   |[Click Here](https://pytorch2020.devpost.com)   |Aug 25, 2020   |
   |Alan Hackathon   |[Click Here](https://hackathon.alan.app)   |Jul 15, 2020   |
-
+  |Hack'20 - Flutter Hackathon   |[Click Here](https://flutterhackathon.com/)   |Jun 28, 2020   |
+  
 # All the best!
 
 Want any kind of help regarding Competitions, feel free to connect with me [here](https://www.linkedin.com/in/hitesh-kumar-a03a2b16b/) or mail me at kumarhitesh652@gmail.com
