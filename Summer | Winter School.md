@@ -1,4 +1,4 @@
-# Winter | Summer School
+# Summer | Winter School
 
 ## For latest opportunities, check this page regularly.
 
@@ -16,4 +16,4 @@
 
 # All the best!
 
-Want any kind of help regarding events, feel free to connect with me [here](https://www.linkedin.com/in/hitesh-kumar-a03a2b16b/) or mail me at kumarhitesh652@gmail.com
+Want any kind of help regarding events, feel free to connect with me [here](https://www.linkedin.com/in/heroichitesh/) or mail me at kumarhitesh652@gmail.com
