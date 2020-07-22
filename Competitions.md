@@ -30,6 +30,11 @@
   |---|---|---|
   |Google Code-in   |[Click Here](https://codein.withgoogle.com/)   |Dec 02, 2019   |
   
+- **Residency Programs**
+  |Program   |Details   |Last Date   |
+  |---|---|---|
+  |AR Creator Residency Program   |[Click Here](https://lensstudio.snapchat.com/snap-ar-creator-residency-program/)   |Aug 07, 2020   |
+  
 - **Bug Bounty Programs**
   |Program   |Details   |Last Date   |
   |---|---|---|
