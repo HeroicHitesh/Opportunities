@@ -2,12 +2,18 @@
 
 ## For latest events, check this page regularly.
 
-|Organization   |Details   |Start Date   |
-|---|---|---|
-|Alexa Live 2020   |[Click Here](https://developer.amazon.com/en-US/alexa/alexa-live)   |Jul 22, 2020   |
-|FlaskCon   |[Click Here](https://flaskcon.com)   |Jul 4, 2020   |
-|Firebase Live 2020   |[Click Here](https://firebaseonair.withgoogle.com/events/firebase-live20)   |Jun 23, 2020   |
-|Explore ML - Get Started with Machine Learning   |[Click Here](https://events.withgoogle.com/explore-ml-in/)   |Jul 27, 2019   |
+- **Year 2020**
+  |Organization   |Details   |Start Date   |
+  |---|---|---|
+  |Alexa Live   |[Click Here](https://developer.amazon.com/en-US/alexa/alexa-live)   |Jul 22   |
+  |Breakpoint   |[Click Here](https://www.browserstack.com/events/breakpoint)   |Jul 20   |
+  |FlaskCon   |[Click Here](https://flaskcon.com)   |Jul 4   |
+  |Firebase Live   |[Click Here](https://firebaseonair.withgoogle.com/events/firebase-live20)   |Jun 23   |
+
+- **Year 2019**
+  |Organization   |Details   |Start Date   |
+  |---|---|---|
+  |Explore ML - Get Started with Machine Learning   |[Click Here](https://events.withgoogle.com/explore-ml-in/)   |Jul 27   |
 
 # All the best!
 
