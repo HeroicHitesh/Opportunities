@@ -9,7 +9,7 @@
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
   |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
-  |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
+  |Hewlett Packard Enterprise   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   
 - **Jobs**
@@ -18,7 +18,9 @@
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
+  |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
+  |Hewlett Packard Enterprise   |[Click Here](https://careers.hpe.com)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
