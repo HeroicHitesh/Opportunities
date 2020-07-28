@@ -13,6 +13,7 @@
   |Hewlett Packard Enterprise(HP)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
+  |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
   
 - **Jobs**
   |Organization   |Details   |
@@ -25,6 +26,7 @@
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
   |Hewlett Packard Enterprise(HP)   |[Click Here](https://careers.hpe.com)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
+  |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |  
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
