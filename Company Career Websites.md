@@ -12,6 +12,7 @@
   |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
   |Hewlett Packard Enterprise(HP)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
+  |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
   
 - **Jobs**
   |Organization   |Details   |
@@ -23,6 +24,7 @@
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
   |Hewlett Packard Enterprise(HP)   |[Click Here](https://careers.hpe.com)   |
+  |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
