@@ -10,8 +10,9 @@
   |Cisco Systems   |[Students and New Graduate Programs](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html)   |
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
+  |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/internship/)   |
   |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
-  |Hewlett Packard Enterprise(HP)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
+  |Hewlett Packard Enterprise(HPE)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
   |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
@@ -25,10 +26,11 @@
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
+  |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
-  |Hewlett Packard Enterprise(HP)   |[Click Here](https://careers.hpe.com)   |
+  |Hewlett Packard Enterprise(HPE)   |[Click Here](https://careers.hpe.com)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
   |media.net   |[Click Here](https://careers.media.net)   |
