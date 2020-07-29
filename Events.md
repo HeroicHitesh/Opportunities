@@ -5,6 +5,7 @@
 - **Year 2020**
   |Organization   |Details   |Start Date   |
   |---|---|---|
+  |Jamstack Conf Virtual   |[Click Here](https://ti.to/netlify/jamstack_virtual_oct)   |Oct 6   |
   |Alexa Live   |[Click Here](https://developer.amazon.com/en-US/alexa/alexa-live)   |Jul 22   |
   |Breakpoint   |[Click Here](https://www.browserstack.com/events/breakpoint)   |Jul 20   |
   |IBM Cloud Forum   |[Click Here](https://www.ibm.com/events/in-en/cloud-forum/)   |Jul 16   |
