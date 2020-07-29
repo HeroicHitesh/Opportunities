@@ -26,7 +26,8 @@
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
   |Hewlett Packard Enterprise(HP)   |[Click Here](https://careers.hpe.com)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
-  |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |  
+  |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
+  |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
