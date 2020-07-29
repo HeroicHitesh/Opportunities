@@ -15,6 +15,7 @@
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
   |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
+  |Shopee   |[Students](https://careers.shopee.sg/students/)   |
   
 - **Jobs**
   |Organization   |Details   |
@@ -31,6 +32,7 @@
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
   |media.net   |[Click Here](https://careers.media.net)   |
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
+  |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
