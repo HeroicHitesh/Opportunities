@@ -51,6 +51,7 @@
     |Organization   |Details   |Last Date   |
     |---|---|---|
     |MLH+GitHub   |[Click Here](https://fellowship.mlh.io)   |Rolling Basis   |
+    |TCS Research Fellowship Programme   |[Click Here](https://www.tcs.com/research-scholarship-program-computer-science-phds-india) [More](https://www.ncertbooks.guru/tcs-research-fellowship/)   |Jul 15, Dec 15, each year   |
     
   - Problem Setter Intern
     |Organization   |Details   |Last Date   |
