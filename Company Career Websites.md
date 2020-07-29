@@ -7,6 +7,7 @@
   |---|---|
   |Advanced Micro Devices(AMD)   |[Students](https://jobs.amd.com/go/Students/2567200/)   |
   |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow), [University Programs](https://www.amazonuniversity.jobs/), [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs), [Internship](https://amazon.jobs/en/teams/internships-for-students)   |
+  |Cisco Systems   |[Students and New Graduate Programs](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html)   |
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
   |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
@@ -20,6 +21,7 @@
   |---|---|
   |Advanced Micro Devices(AMD)   |[Click Here](https://jobs.amd.com)   |
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
+  |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
