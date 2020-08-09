@@ -12,6 +12,7 @@
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/internship/)   |
   |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
+  |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
@@ -31,6 +32,7 @@
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
+  |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Click Here](https://careers.hpe.com)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
