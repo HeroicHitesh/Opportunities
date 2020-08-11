@@ -43,6 +43,7 @@
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
+  |Vodafone   |[Click Here](https://careers.vodafone.com)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
