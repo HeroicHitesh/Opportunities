@@ -18,6 +18,7 @@
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
   |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
   |McAfee   |[Students](https://careers.mcafee.com/students)   |
+  |Microsoft   |[Students and Graduates](https://careers.microsoft.com/students/us/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
   
@@ -37,7 +38,8 @@
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
   |media.net   |[Click Here](https://careers.media.net)   |
-  |McAfee   |[Click Here](https://careers.mcafee.com)   |  
+  |McAfee   |[Click Here](https://careers.mcafee.com)   |
+  |Microsoft   |[Experienced professionals](https://careers.microsoft.com/professionals/us/en/)   |
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
