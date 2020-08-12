@@ -19,6 +19,7 @@
   |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
   |McAfee   |[Students](https://careers.mcafee.com/students)   |
   |Microsoft   |[Students and Graduates](https://careers.microsoft.com/students/us/en)   |
+  |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
   
@@ -41,6 +42,7 @@
   |McAfee   |[Click Here](https://careers.mcafee.com)   |
   |Microsoft   |[Experienced professionals](https://careers.microsoft.com/professionals/us/en/)   |
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
+  |Philips   |[Student](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
