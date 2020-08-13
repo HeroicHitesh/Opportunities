@@ -45,6 +45,7 @@
   |Philips   |[Student](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
+  |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
