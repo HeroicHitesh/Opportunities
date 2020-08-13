@@ -27,6 +27,7 @@
   |Organization   |Details   |
   |---|---|
   |Advanced Micro Devices(AMD)   |[Click Here](https://jobs.amd.com)   |
+  |Amagi   |[Click Here](https://www.amagi.com/about/careers/), [Mail Here](mailto:careers@amagi.com)   |
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
