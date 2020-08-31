@@ -33,6 +33,7 @@
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
   |Dell   |[Click Here](https://jobs.dell.com)   |
+  |Dunzo   |[Click Here](https://www.dunzo.com/careers)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
