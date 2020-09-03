@@ -23,6 +23,7 @@
   |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
+  |Uber   |[University](https://www.uber.com/in/en/careers/teams/university/)   |
   
 - **Jobs**
   |Organization   |Details   |
@@ -50,6 +51,7 @@
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
+  |Uber   |[Students](https://www.uber.com/in/en/careers/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
