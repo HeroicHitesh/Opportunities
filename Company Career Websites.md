@@ -16,6 +16,7 @@
   |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
   |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
+  |Intuit   |[Click Here](https://www.intuit.com/careers/programs/students-and-grads/)   |
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
   |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
@@ -43,6 +44,7 @@
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
   |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Click Here](https://careers.hpe.com)   |
+  |Intuit   |[Click Here](https://jobs.intuit.com/search-jobs)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
   |media.net   |[Click Here](https://careers.media.net)   |
