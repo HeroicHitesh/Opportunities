@@ -20,7 +20,8 @@
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
   |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
-  |McAfee   |[Students](https://careers.mcafee.com/students)   |
+  |McAfee   |[Students](http://careers.medtoureasy.com)   |
+  |MedTourEasy   |[Trainee, etc](https://careers.mcafee.com/students)   |
   |Microsoft   |[Students and Graduates](https://careers.microsoft.com/students/us/en)   |
   |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
