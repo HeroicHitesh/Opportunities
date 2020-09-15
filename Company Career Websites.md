@@ -26,6 +26,7 @@
   |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
+  |Stripe   |[University](https://stripe.com/en-in/jobs/university)   |
   |Uber   |[University](https://www.uber.com/in/en/careers/teams/university/)   |
   
 - **Jobs**
@@ -55,6 +56,7 @@
   |Philips   |[Student](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
+  |Stripe   |[Click Here](https://stripe.com/en-in/jobs)   |
   |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
   |Uber   |[Students](https://www.uber.com/in/en/careers/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
