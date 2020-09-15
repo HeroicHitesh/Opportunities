@@ -55,6 +55,7 @@
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
   |Philips   |[Student](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
+  |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   |Stripe   |[Click Here](https://stripe.com/en-in/jobs)   |
   |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
