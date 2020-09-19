@@ -2,11 +2,17 @@
 
 ## For latest events, check this page regularly.
 
+- **Year 2021**
+  |Organization   |Details   |Start Date   |
+  |---|---|---|
+  |LibrePlanet   |[Click Here](https://libreplanet.org/2021/)   |   |
+
 - **Year 2020**
   |Organization   |Details   |Start Date   |
   |---|---|---|
   |Jamstack Conf Virtual   |[Click Here](https://ti.to/netlify/jamstack_virtual_oct)   |Oct 6   |
   |Nvidia's GTC   |[Click Here](https://www.nvidia.com/en-us/gtc/)   |Oct 5   |
+  |Twilio SIGNAL / Customer & Developer Conference   |[Click Here](https://signal.twilio.com/)   |Sept 30   |
   |UiPath DevCon   |[Click Here](https://www.uipath.com/events/devcon)   |Sept 2   |
   |GraphQL Summit Worldwide   |[Click Here](https://summit.graphql.com)   |Jul 22, Aug 6   |
   |Alexa Live   |[Click Here](https://developer.amazon.com/en-US/alexa/alexa-live)   |Jul 22   |
