@@ -13,6 +13,7 @@
   - **Summer Programs**
     |Program   |Details   |Last Date   |
     |---|---|---|
+    |Processing Foundation Fellowships   |[Click Here](https://processingfoundation.org/fellowships)   |November every year   |
     |Hacktoberfest   |[Click Here](https://hacktoberfest.digitalocean.com)   |October every year   |
     |PClub Summer of Code(PSoC)   |[Click Here](https://www.pclubsummerofcode.in)   |Jun 20, 2020   |
     |WnCC Summer of Code   |[Click Here](https://www.wncc-iitb.org/soc/)   |Apr 10, 2020   |
@@ -23,7 +24,7 @@
     |Outreachy   |[Click Here](https://www.outreachy.org)   |Twice a year   |
     |Tweag Software Innovation Lab Open Source Fellowship   |[Click Here](https://boards.greenhouse.io/tweag/jobs/4638654002)   |Twice a year   |
     |Linux Foundation Mentorship Program   |[Click Here](https://communitybridge.org)   |Multiple times a year   |
-    |Processing Foundation Fellowship   |[Click Here](https://processingfoundation.org/fellowships)   |Multiple times a year   |
+    |FOSSASIA Internship Program   |[Click Here](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform)   |Flexible dates   |
     
   - **Winter Programs**
     |Program   |Details   |Last Date   |
