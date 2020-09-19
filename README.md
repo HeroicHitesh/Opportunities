@@ -20,4 +20,4 @@ If you are :new: to Open Source refer this [guide](https://github.com/HeroicHite
 
 ## Found a :bug:
 
-If you find any error/bug :bug: just create an issue and we will look into it ASAP.:soon:
+If you find any error/bug :bug: just create an [issue](https://github.com/Developer-s-Journey/Opportunities/issues/new?assignees=&labels=&template=new-opportunities.md&title=%5BOpportunity%5D) and we will look into it ASAP.:soon:
