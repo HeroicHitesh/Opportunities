@@ -13,7 +13,7 @@
   - **Summer Programs**
     |Program   |Details   |Last Date   |
     |---|---|---|
-    |Hacktoberfest   |[Click Here](https://hacktoberfest.digitalocean.com)   |Oct every year   |
+    |Hacktoberfest   |[Click Here](https://hacktoberfest.digitalocean.com)   |October every year   |
     |PClub Summer of Code(PSoC)   |[Click Here](https://www.pclubsummerofcode.in)   |Jun 20, 2020   |
     |WnCC Summer of Code   |[Click Here](https://www.wncc-iitb.org/soc/)   |Apr 10, 2020   |
     |Google Summer of Code(GSoC)   |[Click Here](https://summerofcode.withgoogle.com)   |Mar 31, 2020   |
@@ -21,6 +21,7 @@
     |GirlScript Summer of Code(GSSoC)   |[Click Here](https://www.gssoc.tech/index.html)   |Feb 14, 2020   |
     |Summer of Code In Space(SOCIS)   |[Click Here](https://socis.esa.int/)   |Cancelled for 2020   |
     |Outreachy   |[Click Here](https://www.outreachy.org)   |Twice a year   |
+    |Tweag Software Innovation Lab Open Source Fellowship   |[Click Here](https://boards.greenhouse.io/tweag/jobs/4638654002)   |Twice a year   |
     |Linux Foundation Mentorship Program   |[Click Here](https://communitybridge.org)   |Multiple times a year   |
     
   - **Winter Programs**
