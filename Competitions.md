@@ -23,6 +23,7 @@
     |Outreachy   |[Click Here](https://www.outreachy.org)   |Twice a year   |
     |Tweag Software Innovation Lab Open Source Fellowship   |[Click Here](https://boards.greenhouse.io/tweag/jobs/4638654002)   |Twice a year   |
     |Linux Foundation Mentorship Program   |[Click Here](https://communitybridge.org)   |Multiple times a year   |
+    |Processing Foundation Fellowship   |[Click Here](https://processingfoundation.org/fellowships)   |Multiple times a year   |
     
   - **Winter Programs**
     |Program   |Details   |Last Date   |
