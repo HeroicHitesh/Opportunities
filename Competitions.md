@@ -13,6 +13,7 @@
   - **Summer Programs**
     |Program   |Details   |Last Date   |
     |---|---|---|
+    |Hacktoberfest   |[Click Here](https://hacktoberfest.digitalocean.com)   |Oct every year   |
     |PClub Summer of Code(PSoC)   |[Click Here](https://www.pclubsummerofcode.in)   |Jun 20, 2020   |
     |WnCC Summer of Code   |[Click Here](https://www.wncc-iitb.org/soc/)   |Apr 10, 2020   |
     |Google Summer of Code(GSoC)   |[Click Here](https://summerofcode.withgoogle.com)   |Mar 31, 2020   |
