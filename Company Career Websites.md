@@ -3,7 +3,7 @@
 ## For latest opportunities, check this page regularly.
 
 - **Internships and Recent Graduates**
-  |Organization   |Details   |https://asana.com/jobs/engineering
+  |Organization   |Details   |
   |---|---|
   |Advanced Micro Devices(AMD)   |[Students](https://jobs.amd.com/go/Students/2567200/)   |
   |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow), [University Programs](https://www.amazonuniversity.jobs/), [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs), [Internship](https://amazon.jobs/en/teams/internships-for-students)   |
