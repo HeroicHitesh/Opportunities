@@ -28,6 +28,7 @@
   |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
+  |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
   |Stripe   |[University](https://stripe.com/en-in/jobs/university)   |
   |Uber   |[University](https://www.uber.com/in/en/careers/teams/university/)   |
   
@@ -61,6 +62,7 @@
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
+  |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
   |Stripe   |[Click Here](https://stripe.com/en-in/jobs)   |
   |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
