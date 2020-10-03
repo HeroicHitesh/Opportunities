@@ -60,6 +60,7 @@
   |McAfee   |[Click Here](https://careers.mcafee.com)   |
   |Microsoft   |[Experienced professionals](https://careers.microsoft.com/professionals/us/en/)   |
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
+  |Nagra Kudelski Group   |[Click Here](https://careers.nagra.com)   |
   |PayPal   |[Click Here](https://www.paypal.com/in/webapps/mpp/jobs)   |
   |Philips   |[Click Here](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
