@@ -10,6 +10,7 @@
   |Asana   |[Interns & Early Career](https://asana.com/jobs/university-recruiting)   |  
   |Cisco Systems   |[Students and New Graduate Programs](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html)   |
   |Citrix   |[Students and Recent Graduates](https://www.citrix.com/careers/university-recruiting/)   |
+  |Danaher   |[Students](https://www.danaheru.com)   |
   |Dell   |[Students](https://jobs.dell.com/students), [Internships](https://jobs.dell.com/internships), [Graduates](https://jobs.dell.com/graduates)   |
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |  
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
@@ -43,6 +44,7 @@
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Citrix   |[Click Here](https://jobs.citrix.com/c/engineering-jobs)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
+  |Danaher   |[Click Here](https://jobs.danaher.com/global/en)   |
   |Dell   |[Click Here](https://jobs.dell.com)   |
   |Dunzo   |[Click Here](https://www.dunzo.com/careers)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
