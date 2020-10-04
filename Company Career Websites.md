@@ -5,6 +5,7 @@
 - **Internships and Recent Graduates**
   |Organization   |Details   |
   |---|---|
+  |ABB   |[Graduates and entry-level hires](https://global.abb/group/en/careers/opportunities/graduates-entry-level), [Students](https://global.abb/group/en/careers/opportunities/students)   |
   |Advanced Micro Devices(AMD)   |[Students](https://jobs.amd.com/go/Students/2567200/)   |
   |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow), [University Programs](https://www.amazonuniversity.jobs/), [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs), [Internship](https://amazon.jobs/en/teams/internships-for-students)   |
   |Asana   |[Interns & Early Career](https://asana.com/jobs/university-recruiting)   |  
@@ -36,6 +37,7 @@
 - **Jobs**
   |Organization   |Details   |
   |---|---|
+  |ABB   |[Click Here](https://jobs.abb.com/jobsearch/index.html)   |
   |Accruent   |[Click Here](https://www.accruent.com/about-us/careers/job-listing)   |
   |Advanced Micro Devices(AMD)   |[Click Here](https://jobs.amd.com)   |
   |Amagi   |[Click Here](https://www.amagi.com/about/careers/), [Mail Here](mailto:careers@amagi.com)   |
@@ -45,6 +47,7 @@
   |Citrix   |[Click Here](https://jobs.citrix.com/c/engineering-jobs)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
   |Danaher   |[Click Here](https://jobs.danaher.com/global/en)   |
+  |DataDog   |[Click Here](https://www.datadoghq.com/careers/)   |
   |Dell   |[Click Here](https://jobs.dell.com)   |
   |Dunzo   |[Click Here](https://www.dunzo.com/careers)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
@@ -61,17 +64,23 @@
   |Microsoft   |[Experienced professionals](https://careers.microsoft.com/professionals/us/en/)   |
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
   |Nagra Kudelski Group   |[Click Here](https://careers.nagra.com)   |
+  |Nokia   |[Click Here](https://aluperf.referrals.selectminds.com/jobs/search/25391547)   |
   |PayPal   |[Click Here](https://www.paypal.com/in/webapps/mpp/jobs)   |
   |Pesto.tech   |[Click Here](https://airtable.com/shr7wH2LRQhOLyZ2Y)   |
   |Philips   |[Click Here](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
+  |Smith Detection   |[Click Here](https://smithsdetectionjobs.net/en/job-search/job-search/)   |
   |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
+  |Staffio-HR   |[Click Here](https://careers.staffiohr.com/)   |
+  |Standard Chartered   |[Click Here](https://scb.taleo.net/careersection/ex/default.ftl)   |
   |Stripe   |[Click Here](https://stripe.com/en-in/jobs)   |
   |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
+  |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
+  |Walmart   |[Click Here](https://walmart.cluster3.openings.co/#!/)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
