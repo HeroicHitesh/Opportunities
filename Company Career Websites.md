@@ -30,9 +30,11 @@
   |PayPal   |[Students and Grads](https://www.paypal.com/ca/webapps/mpp/jobs/students-and-grads)   |
   |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
+  |Salesforce   |[University](https://www.salesforce.com/company/careers/university-recruiting/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
   |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
   |Stripe   |[University](https://stripe.com/en-in/jobs/university)   |
+  |Twitter   |[University](https://careers.twitter.com/en/university.html)   |
   |Uber   |[University](https://www.uber.com/in/en/careers/teams/university/)   |
   
 - **Jobs**
@@ -57,7 +59,8 @@
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
   |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Click Here](https://careers.hpe.com)   |
-  |Hotstar   |[Click Here](https://jobs.lever.co/hotstar/)   |
+  |Hotstar   |[Click Here](https://jobs.lever.co/hotstar/)   |https://boards.greenhouse.io/innovaccer
+  |Innovaccer   |[Click Here](https://boards.greenhouse.io/innovaccer)   |
   |Intuit   |[Click Here](https://jobs.intuit.com/search-jobs)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
@@ -71,7 +74,10 @@
   |Pesto.tech   |[Click Here](https://airtable.com/shr7wH2LRQhOLyZ2Y)   |
   |Philips   |[Click Here](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
+  |Qualcomm   |[Click Here](https://www.qualcomm.com/company/careers)   |
   |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
+  |Salesforce   |[Click Here](https://www.salesforce.com/company/careers/)   |
+  |Service now   |[Click Here](https://www.servicenow.com/careers.html)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   |Smith Detection   |[Click Here](https://smithsdetectionjobs.net/en/job-search/job-search/)   |
   |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
@@ -79,6 +85,7 @@
   |Standard Chartered   |[Click Here](https://scb.taleo.net/careersection/ex/default.ftl)   |
   |Stripe   |[Click Here](https://stripe.com/en-in/jobs)   |
   |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
+  |Twitter   |[Click Here](https://careers.twitter.com/en/jobs.html)   |
   |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
