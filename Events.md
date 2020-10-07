@@ -11,6 +11,7 @@
 - **Year 2020**
   |Organization   |Details   |Start Date   |
   |---|---|---|
+  |FlutterVikings   |[Click Here](https://ti.to/flutter-vikings/online20)   |Nov 17   |
   |Jamstack Conf Virtual   |[Click Here](https://ti.to/netlify/jamstack_virtual_oct)   |Oct 6   |
   |Nvidia's GTC   |[Click Here](https://www.nvidia.com/en-us/gtc/)   |Oct 5   |
   |Twilio SIGNAL / Customer & Developer Conference   |[Click Here](https://signal.twilio.com/)   |Sept 30   |
