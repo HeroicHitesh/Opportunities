@@ -8,7 +8,8 @@
   |ABB   |[Graduates and entry-level hires](https://global.abb/group/en/careers/opportunities/graduates-entry-level), [Students](https://global.abb/group/en/careers/opportunities/students)   |
   |Advanced Micro Devices(AMD)   |[Students](https://jobs.amd.com/go/Students/2567200/)   |
   |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow), [University Programs](https://www.amazonuniversity.jobs/), [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs), [Internship](https://amazon.jobs/en/teams/internships-for-students)   |
-  |Asana   |[Interns & Early Career](https://asana.com/jobs/university-recruiting)   |  
+  |American Express(Amex)   |[Students](https://careers.americanexpress.com/Students?inav=careers_us_student)   |
+  |Asana   |[Interns & Early Career](https://asana.com/jobs/university-recruiting)   |
   |Cisco Systems   |[Students and New Graduate Programs](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html)   |
   |Citrix   |[Students and Recent Graduates](https://www.citrix.com/careers/university-recruiting/)   |
   |Danaher   |[Students](https://www.danaheru.com)   |
@@ -45,6 +46,7 @@
   |Advanced Micro Devices(AMD)   |[Click Here](https://jobs.amd.com)   |
   |Amagi   |[Click Here](https://www.amagi.com/about/careers/), [Mail Here](mailto:careers@amagi.com)   |
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
+  |American Express(Amex)   |[Click Here](https://careers.americanexpress.com)   |
   |Asana   |[Engineering & Data](https://asana.com/jobs/engineering)   |  
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Citrix   |[Click Here](https://jobs.citrix.com/c/engineering-jobs)   |
