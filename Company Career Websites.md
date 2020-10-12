@@ -78,6 +78,7 @@
   |Philips   |[Click Here](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Qualcomm   |[Click Here](https://www.qualcomm.com/company/careers)   |
+  |Razorpay   |[Click Here](https://razorpay.com/jobs/), [Mail Here](mailto:jobs@razorpay.com)   |
   |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
   |Salesforce   |[Click Here](https://www.salesforce.com/company/careers/)   |
   |Service now   |[Click Here](https://www.servicenow.com/careers.html)   |
