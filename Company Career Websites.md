@@ -72,6 +72,7 @@
   |Microsoft   |[Experienced professionals](https://careers.microsoft.com/professionals/us/en/)   |
   |Morgan Stanley   |[Global Programs](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-62d6f3f5926d/candidate/jobboard/vacancy/1/adv/)   |
   |Nagra Kudelski Group   |[Click Here](https://careers.nagra.com)   |
+  |NetApp   |[Click Here](https://netapp.eightfold.ai/careers)   |
   |Nokia   |[Click Here](https://aluperf.referrals.selectminds.com/jobs/search/25391547)   |
   |PayPal   |[Click Here](https://www.paypal.com/in/webapps/mpp/jobs)   |
   |Pesto.tech   |[Click Here](https://airtable.com/shr7wH2LRQhOLyZ2Y)   |
