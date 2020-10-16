@@ -10,6 +10,7 @@
   |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow), [University Programs](https://www.amazonuniversity.jobs/), [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs), [Internship](https://amazon.jobs/en/teams/internships-for-students)   |
   |American Express(Amex)   |[Students](https://careers.americanexpress.com/Students?inav=careers_us_student)   |
   |Asana   |[Interns & Early Career](https://asana.com/jobs/university-recruiting)   |
+  |ByteDance   |[Students and Grads](https://job.bytedance.com/en/students)   |
   |Cisco Systems   |[Students and New Graduate Programs](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html)   |
   |Citrix   |[Students and Recent Graduates](https://www.citrix.com/careers/university-recruiting/)   |
   |Danaher   |[Students](https://www.danaheru.com)   |
@@ -49,6 +50,7 @@
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
   |American Express(Amex)   |[Click Here](https://careers.americanexpress.com)   |
   |Asana   |[Engineering & Data](https://asana.com/jobs/engineering)   |  
+  |ByteDance   |[Click Here](https://job.bytedance.com/en/position)   |
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Citrix   |[Click Here](https://jobs.citrix.com/c/engineering-jobs)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
