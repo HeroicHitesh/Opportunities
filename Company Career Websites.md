@@ -60,6 +60,7 @@
   |Dell   |[Click Here](https://jobs.dell.com)   |
   |D.E. Shaw India   |[Click Here](https://www.deshawindia.com/careers/internships)   |
   |Dunzo   |[Click Here](https://www.dunzo.com/careers)   |
+  |Expedia   |[Click Here](https://lifeatexpediagroup.com)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
