@@ -13,6 +13,7 @@
   |ByteDance   |[Students and Grads](https://job.bytedance.com/en/students)   |
   |Cisco Systems   |[Students and New Graduate Programs](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html)   |
   |Citrix   |[Students and Recent Graduates](https://www.citrix.com/careers/university-recruiting/)   |
+  |Codingal   |[Click Here](https://codingal.freshteam.com/jobs)   |
   |Danaher   |[Students](https://www.danaheru.com)   |
   |Dell   |[Students](https://jobs.dell.com/students), [Internships](https://jobs.dell.com/internships), [Graduates](https://jobs.dell.com/graduates)   |
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |  
@@ -54,6 +55,7 @@
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Citrix   |[Click Here](https://jobs.citrix.com/c/engineering-jobs)   |
   |CodeSandbox   |[Click Here](https://codesandbox.io/jobs)   |
+  |Codingal   |[Click Here](https://codingal.freshteam.com/jobs)   |
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
   |Commvault   |[Click Here](https://careers.commvault.com/location-hubs/)   |
   |Danaher   |[Click Here](https://jobs.danaher.com/global/en)   |
