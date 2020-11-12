@@ -104,6 +104,7 @@
   |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
   |Twitter   |[Click Here](https://careers.twitter.com/en/jobs.html)   |
   |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
+  |Tanium   |[Click Here](https://tanium.com/careers/)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
   |Verkada   |[Click Here](https://www.verkada.com/careers/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
