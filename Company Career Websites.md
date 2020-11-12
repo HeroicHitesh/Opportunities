@@ -85,6 +85,7 @@
   |NetApp   |[Click Here](https://netapp.eightfold.ai/careers)   |
   |Nokia   |[Click Here](https://aluperf.referrals.selectminds.com/jobs/search/25391547)   |
   |Nutanix   |[Click Here](https://nutanix.eightfold.ai/careers?pid=1828306&domain=nutanix.com)   |
+  |Nvidia   |[Click Here](https://www.nvidia.com/en-in/about-nvidia/careers/)   |
   |PayPal   |[Click Here](https://www.paypal.com/in/webapps/mpp/jobs)   |
   |Pesto.tech   |[Click Here](https://airtable.com/shr7wH2LRQhOLyZ2Y)   |
   |Philips   |[Click Here](https://www.careers.philips.com/in/en)   |
