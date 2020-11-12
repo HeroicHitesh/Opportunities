@@ -92,6 +92,7 @@
   |Razorpay   |[Click Here](https://razorpay.com/jobs/), [Mail Here](mailto:jobs@razorpay.com)   |
   |Reddit   |[Click Here](https://www.redditinc.com/careers)   |
   |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
+  |Rubrik   |[Click Here](https://www.rubrik.com/en/company/careers)   |
   |Salesforce   |[Click Here](https://www.salesforce.com/company/careers/)   |
   |Service now   |[Click Here](https://www.servicenow.com/careers.html)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
