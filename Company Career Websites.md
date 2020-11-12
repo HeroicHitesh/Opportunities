@@ -103,6 +103,7 @@
   |Twitter   |[Click Here](https://careers.twitter.com/en/jobs.html)   |
   |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
+  |Verkada   |[Click Here](https://www.verkada.com/careers/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
   |Zeta   |[Click Here](https://jobs.lever.co/zeta/), [Careers](https://www.zeta.tech/careers/)   |
   |Walmart   |[Click Here](https://walmart.cluster3.openings.co/#!/)   |
