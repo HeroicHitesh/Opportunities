@@ -53,6 +53,7 @@
   |Accruent   |[Click Here](https://www.accruent.com/about-us/careers/job-listing)   |
   |Adobe   |[Click Here](https://www.adobe.com/careers.html)   |
   |Advanced Micro Devices(AMD)   |[Click Here](https://jobs.amd.com)   |
+  |Airkit   |[Click Here](https://www.airkit.com/careers/)   |
   |Airmeet   |[Click Here](https://airmeet.freshteam.com/jobs)   |
   |Amagi   |[Click Here](https://www.amagi.com/about/careers/), [Mail Here](mailto:careers@amagi.com)   |
   |Amazon   |[Click Here](https://www.amazon.jobs/en/)   |
