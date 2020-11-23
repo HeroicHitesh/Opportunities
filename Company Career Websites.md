@@ -18,6 +18,7 @@
   |Danaher   |[Students](https://www.danaheru.com)   |
   |Dell   |[Students](https://jobs.dell.com/students), [Internships](https://jobs.dell.com/internships), [Graduates](https://jobs.dell.com/graduates)   |
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |  
+  |Facebook   |[Students & Grads](https://www.facebook.com/careers/students-and-grads/), [Facebook University](https://www.facebook.com/careers/students-and-grads/students)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/internship/)   |
   |Goldman Sachs   |[Students](https://www.goldmansachs.com/careers/students/index.html)   |
@@ -70,6 +71,7 @@
   |Dunzo   |[Click Here](https://www.dunzo.com/careers)   |
   |Electronic Arts(EA)   |[Click Here](https://ea.gr8people.com/jobs/)   |
   |Expedia   |[Click Here](https://lifeatexpediagroup.com)   |
+  |Facebook   |[Click Here](https://www.facebook.com/careers/jobs)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
