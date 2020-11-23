@@ -43,6 +43,7 @@
   |Stripe   |[University](https://stripe.com/en-in/jobs/university)   |
   |Twitter   |[University](https://careers.twitter.com/en/university.html)   |
   |Uber   |[University](https://www.uber.com/in/en/careers/teams/university/)   |
+  |Unity   |[University](https://careers.unity.com/university)   |
   
 - **Jobs**
   |Organization   |Details   |
@@ -118,6 +119,7 @@
   |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
   |Tanium   |[Click Here](https://tanium.com/careers/)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
+  |Unity   |[Click Here](https://careers.unity.com/#open-positions)   |
   |Verkada   |[Click Here](https://www.verkada.com/careers/)   |
   |Vodafone   |[Click Here](https://careers.vodafone.com)   |
   |Zeta   |[Click Here](https://jobs.lever.co/zeta/), [Careers](https://www.zeta.tech/careers/)   |
