@@ -20,6 +20,7 @@
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |  
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
   |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/internship/)   |
+  |Goldman Sachs   |[Students](https://www.goldmansachs.com/careers/students/index.html)   |
   |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |
   |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |
@@ -69,9 +70,10 @@
   |Dunzo   |[Click Here](https://www.dunzo.com/careers)   |
   |Electronic Arts(EA)   |[Click Here](https://ea.gr8people.com/jobs/)   |
   |Expedia   |[Click Here](https://lifeatexpediagroup.com)   |
-  |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
+  |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
   |GeekyAnts   |[Click Here](https://geekyants.com/current-openings)   |
+  |Goldman Sachs   |[Click Here](https://www.goldmansachs.com/careers/index.html), [Professionals](https://www.goldmansachs.com/careers/professionals/index.html)   |
   |Google   |[Click Here](https://careers.google.com/jobs/)   |
   |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Click Here](https://careers.hpe.com)   |
