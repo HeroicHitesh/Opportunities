@@ -61,6 +61,7 @@
   |American Express(Amex)   |[Click Here](https://careers.americanexpress.com)   |
   |Asana   |[Engineering & Data](https://asana.com/jobs/engineering)   |  
   |ByteDance   |[Click Here](https://job.bytedance.com/en/position)   |
+  |C3.ai   |[Click Here](https://c3.ai/careers/)   |
   |Cisco Systems   |[Click Here](https://jobs.cisco.com)   |
   |Citrix   |[Click Here](https://jobs.citrix.com/c/engineering-jobs)   |
   |CodeSandbox   |[Click Here](https://codesandbox.io/jobs)   |
