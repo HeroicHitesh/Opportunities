@@ -38,6 +38,7 @@
   |PayPal   |[Students and Grads](https://www.paypal.com/ca/webapps/mpp/jobs/students-and-grads)   |
   |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
+  |Roku   |[Students](https://www.roku.com/jobs/students)   |
   |Salesforce   |[University](https://www.salesforce.com/company/careers/university-recruiting/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
   |Splunk   |[University Relations](https://www.splunk.com/en_us/careers/university-recruiting.html)   |
@@ -107,6 +108,7 @@
   |Pesto.tech   |[Click Here](https://airtable.com/shr7wH2LRQhOLyZ2Y)   |
   |Philips   |[Click Here](https://www.careers.philips.com/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
+  |Roku   |[Click Here](https://www.roku.com/jobs/listing)   |
   |Qualcomm   |[Click Here](https://www.qualcomm.com/company/careers)   |
   |Razorpay   |[Click Here](https://razorpay.com/jobs/), [Mail Here](mailto:jobs@razorpay.com)   |
   |Reddit   |[Click Here](https://www.redditinc.com/careers)   |
