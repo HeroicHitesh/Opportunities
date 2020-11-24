@@ -29,6 +29,7 @@
   |Intuit   |[Click Here](https://www.intuit.com/careers/programs/students-and-grads/)   |
   |Jio   |[Click Here](https://careers.jio.com/frmStudentIntern.aspx)   |
   |JPMorgan Chase & Co   |[Students](https://careers.jpmorgan.com/us/en/students/programs)   |
+  |Lyft   |[University Programs](https://www.lyft.com/careers/university)   |
   |McKinsey & Company   |[Students](https://www.mckinsey.com/careers/students)   |
   |McAfee   |[Students](http://careers.medtoureasy.com)   |
   |MedTourEasy   |[Trainee, etc](https://careers.mcafee.com/students)   |
@@ -87,6 +88,7 @@
   |Innovaccer   |[Click Here](https://boards.greenhouse.io/innovaccer)   |
   |Intuit   |[Click Here](https://jobs.intuit.com/search-jobs)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
+  |Lyft   |[Click Here](https://www.lyft.com/careers#openings)   |
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
   |media.net   |[Click Here](https://careers.media.net)   |
   |McAfee   |[Click Here](https://careers.mcafee.com)   |
