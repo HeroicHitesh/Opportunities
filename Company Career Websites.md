@@ -123,7 +123,7 @@
   |Staffio-HR   |[Click Here](https://careers.staffiohr.com/)   |
   |Standard Chartered   |[Click Here](https://scb.taleo.net/careersection/ex/default.ftl)   |
   |Stripe   |[Click Here](https://stripe.com/en-in/jobs)   |
-  |Swiggy   |[Click Here](https://careers.swiggy.com/)   |
+  |Swiggy   |[Click Here](https://careers.swiggy.com/), [Mail Here](mailto:careers@swiggy.in)   |
   |Twitter   |[Click Here](https://careers.twitter.com/en/jobs.html)   |
   |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
   |Tanium   |[Click Here](https://tanium.com/careers/)   |
