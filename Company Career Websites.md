@@ -90,6 +90,7 @@
   |Innovaccer   |[Click Here](https://boards.greenhouse.io/innovaccer)   |
   |Intuit   |[Click Here](https://jobs.intuit.com/search-jobs)   |
   |JPMorgan Chase & Co   |[Click Here](https://careers.jpmorgan.com/us/en/professionals)   |
+  |Lightstep   |[Click Here](https://lightstep.com/about/careers/)   |
   |Lyft   |[Click Here](https://www.lyft.com/careers#openings)   |
   |McKinsey & Company   |[Click Here](https://www.mckinsey.com/careers/experienced-professionals)   |
   |media.net   |[Click Here](https://careers.media.net)   |
