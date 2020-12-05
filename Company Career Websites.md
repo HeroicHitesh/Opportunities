@@ -125,9 +125,10 @@
   |Standard Chartered   |[Click Here](https://scb.taleo.net/careersection/ex/default.ftl)   |
   |Stripe   |[Click Here](https://stripe.com/en-in/jobs)   |
   |Swiggy   |[Click Here](https://careers.swiggy.com/), [Mail Here](mailto:careers@swiggy.in)   |
-  |Twitter   |[Click Here](https://careers.twitter.com/en/jobs.html)   |
   |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
   |Tanium   |[Click Here](https://tanium.com/careers/)   |
+  |Tata Consultancy Services(TCS)   |[TCS NQT](https://learning.tcsionhub.in/hub/national-qualifier-test/) with [NextStep Portal](https://nextstep.tcs.com/campus/#/) Registration, [CodeVita Season-9](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9), [HackQuest Season-5](https://campuscommune.tcs.com/en-in/intro/contests/hackquest-season-5-0), [InfraMind Season-4](https://campuscommune.tcs.com/en-in/intro/contests/tcs-inframind-season-4)   |
+  |Twitter   |[Click Here](https://careers.twitter.com/en/jobs.html)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
   |Unity   |[Click Here](https://careers.unity.com/#open-positions)   |
   |Verkada   |[Click Here](https://www.verkada.com/careers/)   |
