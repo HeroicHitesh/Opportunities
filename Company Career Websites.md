@@ -42,6 +42,7 @@
   |Salesforce   |[University](https://www.salesforce.com/company/careers/university-recruiting/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
   |Splunk   |[University Relations](https://www.splunk.com/en_us/careers/university-recruiting.html)   |
+  |Square   |[University](https://careers.squareup.com/us/en/university)   |
   |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
   |Stripe   |[University](https://stripe.com/en-in/jobs/university)   |
   |Twitter   |[University](https://careers.twitter.com/en/university.html)   |
@@ -120,6 +121,7 @@
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   |Smith Detection   |[Click Here](https://smithsdetectionjobs.net/en/job-search/job-search/)   |
   |Splunk   |[Click Here](https://www.splunk.com/en_us/careers.html)   |
+  |Square   |[Click Here](https://careers.squareup.com/us/en/jobs)   |
   |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
   |Staffio-HR   |[Click Here](https://careers.staffiohr.com/)   |
   |Standard Chartered   |[Click Here](https://scb.taleo.net/careersection/ex/default.ftl)   |
