@@ -42,6 +42,7 @@
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
   |Roku   |[Students](https://www.roku.com/jobs/students)   |
   |Salesforce   |[University](https://www.salesforce.com/company/careers/university-recruiting/)   |
+  |Seagate   |[University Programs](https://www.seagate.com/in/en/jobs/university-programs/)   |
   |Shopee   |[Students](https://careers.shopee.sg/students/)   |
   |Splunk   |[University Relations](https://www.splunk.com/en_us/careers/university-recruiting.html)   |
   |Square   |[University](https://careers.squareup.com/us/en/university)   |
@@ -122,6 +123,7 @@
   |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
   |Rubrik   |[Click Here](https://www.rubrik.com/en/company/careers)   |
   |Salesforce   |[Click Here](https://www.salesforce.com/company/careers/)   |
+  |Seagate   |[Click Here](https://seagatecareers.com)   |
   |Service now   |[Click Here](https://www.servicenow.com/careers.html)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   |Smith Detection   |[Click Here](https://smithsdetectionjobs.net/en/job-search/job-search/)   |
