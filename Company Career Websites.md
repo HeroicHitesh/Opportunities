@@ -105,6 +105,7 @@
   |Nokia   |[Click Here](https://aluperf.referrals.selectminds.com/jobs/search/25391547)   |
   |Nutanix   |[Click Here](https://nutanix.eightfold.ai/careers?pid=1828306&domain=nutanix.com)   |
   |Nvidia   |[Click Here](https://www.nvidia.com/en-in/about-nvidia/careers/)   |
+  |OSlash   |[Click Here](https://www.notion.so/OSlash-We-You-e47cfe5f3d0249bd841070ab8195ef7d)   |
   |PagerDuty   |[Click Here](https://www.pagerduty.com/careers/)   |
   |PayPal   |[Click Here](https://www.paypal.com/in/webapps/mpp/jobs)   |
   |Pesto.tech   |[Click Here](https://airtable.com/shr7wH2LRQhOLyZ2Y)   |
