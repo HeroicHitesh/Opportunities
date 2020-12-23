@@ -125,6 +125,7 @@
   |Service now   |[Click Here](https://www.servicenow.com/careers.html)   |
   |Shopee   |[Click Here](https://careers.shopee.sg/jobs/)   |
   |Smith Detection   |[Click Here](https://smithsdetectionjobs.net/en/job-search/job-search/)   |
+  |Soroco   |[Click Here](https://boards.greenhouse.io/soroco)   |
   |Splunk   |[Click Here](https://www.splunk.com/en_us/careers.html)   |
   |Square   |[Click Here](https://careers.squareup.com/us/en/jobs)   |
   |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
