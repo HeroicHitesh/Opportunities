@@ -48,6 +48,7 @@
   |Square   |[University](https://careers.squareup.com/us/en/university)   |
   |Squareboat   |[Click Here](https://squareboat.com/careers/)   |
   |Stripe   |[University](https://stripe.com/en-in/jobs/university)   |
+  |The World Bank   |[Programs and Internships](https://www.worldbank.org/en/about/careers/programs-and-internships)   |
   |Twitter   |[University](https://careers.twitter.com/en/university.html)   |
   |Uber   |[University](https://www.uber.com/in/en/careers/teams/university/)   |
   |Unity   |[University](https://careers.unity.com/university)   |
@@ -138,6 +139,7 @@
   |Tally Solutions   |[Click Here](https://tallysolutions.com/careers/)   |
   |Tanium   |[Click Here](https://tanium.com/careers/)   |
   |Tata Consultancy Services(TCS)   |[TCS NQT](https://learning.tcsionhub.in/hub/national-qualifier-test/) with [NextStep Portal](https://nextstep.tcs.com/campus/#/) Registration, [CodeVita Season-9](https://campuscommune.tcs.com/en-in/intro/contests/codevita-season-9), [HackQuest Season-5](https://campuscommune.tcs.com/en-in/intro/contests/hackquest-season-5-0), [InfraMind Season-4](https://campuscommune.tcs.com/en-in/intro/contests/tcs-inframind-season-4)   |
+  |The World Bank   |[Click Here](https://www.worldbank.org/en/about/careers)   |
   |Twitter   |[Click Here](https://careers.twitter.com/en/jobs.html)   |
   |Uber   |[Click Here](https://www.uber.com/in/en/careers/)   |
   |Unity   |[Click Here](https://careers.unity.com/#open-positions)   |
