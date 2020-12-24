@@ -40,6 +40,7 @@
   |PayPal   |[Students and Grads](https://www.paypal.com/ca/webapps/mpp/jobs/students-and-grads)   |
   |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |
   |Postman   |[Click Here](https://www.postman.com/careers/)   |
+  |Red Hat   |[Internships](https://www.redhat.com/en/jobs/departments)   |
   |Roku   |[Students](https://www.roku.com/jobs/students)   |
   |Salesforce   |[University](https://www.salesforce.com/company/careers/university-recruiting/)   |
   |Seagate   |[University Programs](https://www.seagate.com/in/en/jobs/university-programs/)   |
@@ -122,6 +123,7 @@
   |Qualcomm   |[Click Here](https://www.qualcomm.com/company/careers)   |
   |Razorpay   |[Click Here](https://razorpay.com/jobs/), [Mail Here](mailto:jobs@razorpay.com)   |
   |Reddit   |[Click Here](https://www.redditinc.com/careers)   |
+  |Red Hat   |[Click Here](https://careers-redhat.icims.com/jobs/search)   |
   |Roblox   |[Click Here](https://corp.roblox.com/careers/)   |
   |Rubrik   |[Click Here](https://www.rubrik.com/en/company/careers)   |
   |Salesforce   |[Click Here](https://www.salesforce.com/company/careers/)   |
