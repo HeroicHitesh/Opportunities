@@ -76,6 +76,7 @@
   |Coding Ninjas   |[Ninja Hire (For 2nd/3rd yr)](https://www.codingninjas.com/events/ninja-hire-2nd-3rd-year), [Ninja Hire (For 4th yr)](https://www.codingninjas.com/events/ninja-hire-4th-year)   |
   |Commvault   |[Click Here](https://careers.commvault.com/location-hubs/)   |
   |Confluent   |[Click Here](https://www.confluent.io/careers)   |
+  |Cred   |[Click Here](https://careers.cred.club/allJob)   |
   |Danaher   |[Click Here](https://jobs.danaher.com/global/en)   |
   |DataDog   |[Click Here](https://www.datadoghq.com/careers/)   |
   |Dell   |[Click Here](https://jobs.dell.com)   |
