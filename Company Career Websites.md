@@ -95,6 +95,7 @@
   |Grid Dynamics   |[Click Here](https://jobs.jobvite.com/careers/griddynamics/jobs)   |
   |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |
   |Hewlett Packard Enterprise(HPE)   |[Click Here](https://careers.hpe.com)   |
+  |Hike   |[Click Here](https://www.hike.in/workathike/)   |
   |Hotstar   |[Click Here](https://jobs.lever.co/hotstar/)   |https://boards.greenhouse.io/innovaccer
   |Innovaccer   |[Click Here](https://boards.greenhouse.io/innovaccer)   |
   |Intuit   |[Click Here](https://jobs.intuit.com/search-jobs)   |
