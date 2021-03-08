@@ -19,6 +19,7 @@
   |Danaher   |[Students](https://www.danaheru.com)   |
   |Dell   |[Students](https://jobs.dell.com/students), [Internships](https://jobs.dell.com/internships), [Graduates](https://jobs.dell.com/graduates)   |
   |Discovery   |[Internship Programs](https://corporate.discovery.com/careers/internships/)   |
+  |Dolby Laboratories   |[Early Career Hiring](https://careers.dolby.com/content/Early-Career-Hiring/?locale=en_US)   |
   |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |  
   |Facebook   |[Students & Grads](https://www.facebook.com/careers/students-and-grads/), [Facebook University](https://www.facebook.com/careers/students-and-grads/students)   |
   |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |
@@ -83,6 +84,7 @@
   |Dell   |[Click Here](https://jobs.dell.com)   |
   |D.E. Shaw India   |[Click Here](https://www.deshawindia.com/careers/internships)   |
   |Discovery   |[Click Here](https://corporate.discovery.com/careers/)   |
+  |Dolby Laboratories   |[Early Career Hiring](https://careers.dolby.com)   |
   |Dunzo   |[Click Here](https://www.dunzo.com/careers)   |
   |Electronic Arts(EA)   |[Click Here](https://ea.gr8people.com/jobs/)   |
   |Expedia   |[Click Here](https://lifeatexpediagroup.com)   |
