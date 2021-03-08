@@ -71,6 +71,7 @@
 |OSlash   |   |[Click Here](https://www.notion.so/OSlash-We-You-e47cfe5f3d0249bd841070ab8195ef7d)   |
 |PagerDuty   |   |[Click Here](https://www.pagerduty.com/careers/)   |
 |PayPal   |[Students and Grads](https://www.paypal.com/ca/webapps/mpp/jobs/students-and-grads)   |[Click Here](https://www.paypal.com/in/webapps/mpp/jobs)   |
+|Paytm   |[Click Here](https://jobs.lever.co/paytm)   |[Click Here](https://jobs.lever.co/paytm)   |
 |Pesto.tech   |   |[Click Here](https://airtable.com/shr7wH2LRQhOLyZ2Y)   |
 |Philips   |[Student](https://www.careers.philips.com/student/in/en)   |[Click Here](https://www.careers.philips.com/in/en)   |
 |Postman   |[Click Here](https://www.postman.com/careers/)   |[Click Here](https://www.postman.com/careers/)   |
@@ -106,7 +107,7 @@
 |Vodafone   |   |[Click Here](https://careers.vodafone.com)   |
 |Walmart   |   |[Click Here](https://walmart.cluster3.openings.co/#!/)   |
 |Zeta   |   |[Click Here](https://jobs.lever.co/zeta/), [Careers](https://www.zeta.tech/careers/)   |
-|Zscaler   |   |[Click Here](https://jobs.jobvite.com/zscaler/jobs)   |
+|Zscaler   |[Click Here](https://jobs.jobvite.com/zscaler/jobs)   |[Click Here](https://jobs.jobvite.com/zscaler/jobs)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
