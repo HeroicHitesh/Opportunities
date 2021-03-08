@@ -102,6 +102,7 @@
 |Uber   |[University](https://www.uber.com/in/en/careers/teams/university/)   |[Click Here](https://www.uber.com/in/en/careers/)   |
 |Unity   |[University](https://careers.unity.com/university)   |[Click Here](https://careers.unity.com/#open-positions)   |
 |Verkada   |   |[Click Here](https://www.verkada.com/careers/)   |
+|Vimeo   |   |[Click Here](https://boards.greenhouse.io/vimeo)   |
 |Vodafone   |   |[Click Here](https://careers.vodafone.com)   |
 |Zeta   |   |[Click Here](https://jobs.lever.co/zeta/), [Careers](https://www.zeta.tech/careers/)   |
 |Walmart   |   |[Click Here](https://walmart.cluster3.openings.co/#!/)   |
