@@ -44,6 +44,7 @@
 |Goldman Sachs   |[Students](https://www.goldmansachs.com/careers/students/index.html)   |[Click Here](https://www.goldmansachs.com/careers/index.html), [Professionals](https://www.goldmansachs.com/careers/professionals/index.html)   |
 |Google   |[Students](https://careers.google.com/students/), [Internships+](https://buildyourfuture.withgoogle.com/internships/), [Education](https://edu.google.com/students/index.html)   |[Click Here](https://careers.google.com/jobs/)   |
 |Grid Dynamics   |   |[Click Here](https://jobs.jobvite.com/careers/griddynamics/jobs)   |
+|Hackerearth   |[Click Here](https://hackerearthjobs.recruiterbox.com)   |[Click Here](https://hackerearthjobs.recruiterbox.com)   |
 |HackerRank   |[Click Here](https://www.hackerrank.com/careers)   |[Click Here](https://www.hackerrank.com/careers)   |
 |Hewlett Packard Enterprise(HPE)   |[Students & Graduates](https://www.hpe.com/us/en/about/jobs/students.html)   |[Click Here](https://careers.hpe.com)   |
 |Hike   |   |[Click Here](https://www.hike.in/workathike/)   |
