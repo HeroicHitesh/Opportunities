@@ -14,6 +14,7 @@
 |Amazon   |[Amaze Wow](https://www.amazewit.in/amazewow), [University Programs](https://www.amazonuniversity.jobs/), [Student Programs](https://www.amazon.jobs/en/business_categories/student-programs), [Internship](https://amazon.jobs/en/teams/internships-for-students)   |[Click Here](https://www.amazon.jobs/en/)   |
 |American Express(Amex)   |[Students](https://careers.americanexpress.com/Students?inav=careers_us_student)   |[Click Here](https://careers.americanexpress.com)   |
 |Asana   |[Interns & Early Career](https://asana.com/jobs/university-recruiting)   |[Engineering & Data](https://asana.com/jobs/engineering)   |
+|Atlassian   |[Interns](https://jobs.lever.co/atlassian?commitment=Intern)   |[Click Here](https://jobs.lever.co/atlassian)   |
 |ByteDance   |[Students and Grads](https://job.bytedance.com/en/students)   |[Click Here](https://job.bytedance.com/en/position)   |
 |C3.ai   |   |[Click Here](https://c3.ai/careers/)   |
 |Cisco Systems   |[Students and New Graduate Programs](https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html)   |[Click Here](https://jobs.cisco.com)   |
