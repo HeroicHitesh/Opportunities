@@ -104,8 +104,9 @@
 |Verkada   |   |[Click Here](https://www.verkada.com/careers/)   |
 |Vimeo   |   |[Click Here](https://boards.greenhouse.io/vimeo)   |
 |Vodafone   |   |[Click Here](https://careers.vodafone.com)   |
-|Zeta   |   |[Click Here](https://jobs.lever.co/zeta/), [Careers](https://www.zeta.tech/careers/)   |
 |Walmart   |   |[Click Here](https://walmart.cluster3.openings.co/#!/)   |
+|Zeta   |   |[Click Here](https://jobs.lever.co/zeta/), [Careers](https://www.zeta.tech/careers/)   |
+|Zscaler   |   |[Click Here](https://jobs.jobvite.com/zscaler/jobs)   |
   
 - ***Covid Special List(Includes Jobs+Internships)***
   |Organization   |Details   |Last Date   |
