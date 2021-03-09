@@ -38,6 +38,7 @@
 |ETI Labs Pvt. Ltd.   |[Click Here](http://www.etilabs.com/summerintern2020/)   |   |
 |Expedia   |   |[Click Here](https://lifeatexpediagroup.com)   |
 |Facebook   |[Students & Grads](https://www.facebook.com/careers/students-and-grads/), [Facebook University](https://www.facebook.com/careers/students-and-grads/students)   |[Click Here](https://www.facebook.com/careers/jobs)   |
+|Fampay   |[Click Here](https://jobs.lever.co/fampay)   |[Click Here](https://jobs.lever.co/fampay)   |
 |Flipkart   |[Click Here](https://www.flipkartcareers.com/#!/)   |[Click Here](https://www.flipkartcareers.com/#!/joblist), [GRiD 2.0](https://dare2compete.com/f/flipkart-grid-20-flipkart-6690)   |
 |GeeksforGeeks   |[Click Here](https://www.geeksforgeeks.org/internship/)   |[Click Here](https://www.geeksforgeeks.org/careers/#fulltime)   |
 |GeekyAnts   |   |[Click Here](https://geekyants.com/current-openings)   |
